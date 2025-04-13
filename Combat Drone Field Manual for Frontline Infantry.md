@@ -1,7 +1,5 @@
 # Combat Drone Field Manual for Frontline Infantry
 
-# **Combat Drone Field Manual for Frontline Infantry**
-
 ## *Survival and Tactics in the Era of FPV Warfare*
 
 ---
@@ -663,8 +661,7 @@ Fake threats or decoy drones used to trigger premature enemy responses.
 
 **Example**: Dummy FPV buzzing trenchlines causes enemy to reveal fire positions.
 
-FPV无人机可在废墟、草丛或道路边缘设伏，处于待命模式，一旦敌方目标进入射程，即刻起飞实施打击。操控员可在远距离隐蔽操作，有效规避反制风险。
 
 ---
-
-FPV drones can be deployed in ambush positions such as ruins, vegetation, or roadsides. While in standby mode, they remain hidden until an enemy target enters the kill zone, triggering an immediate strike. Operators can control them from a safe distance, minimizing exposure to countermeasures.
+"
+FPV drones can be deployed in ambush positions such as ruins, vegetation, or roadsides. While in standby mode, they remain hidden until an enemy target enters the kill zone, triggering an immediate strike. Operators can control them from a safe distance, minimizing exposure to countermeasures."
