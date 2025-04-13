@@ -1,4 +1,4 @@
-# Combat Drone Field Manual for Frontline Infantry
+# Article 01: Combat Drone Field Manual for Frontline Infantry
 
 ## *Survival and Tactics in the Era of FPV Warfare*
 
