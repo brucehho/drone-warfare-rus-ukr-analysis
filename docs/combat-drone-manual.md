@@ -6,7 +6,7 @@
 
 Day 1143 of the Russia-Ukraine war, the Russian Defense Ministry claims its air defense systems intercepted 13 Ukrainian drones within 30 minutes on Friday night. Unverified reports suggest a retaliatory FPV “kamikaze” drone stuck a Russian radar station near Belgorod during the same period.
 
-![alt text](<../graphics/ChatGPT Image Apr 13, 2025, 01_02_58 AM.png>)
+![alt text](<graphics/ChatGPT Image Apr 13, 2025, 01_02_58 AM.png>)
 
 ---
 
@@ -249,8 +249,7 @@ FPV (First Person View) drones have revolutionized frontline tactics by offering
 | **🔥 Direct Fire / Kinetic Interception** | Small arms fire (12-gauge shotgun with #4 buck preferred) | Russian 76th Guards Air Assault Division achieved 68% kill rate at <50m (2023 TTP report) | 72% success rate in visual range |
 | 🧲 **Physical Capture** | Net gun systems (e.g., SkyWall 300) with compressed air launch | Ukrainian 95th Brigade captured Russian Orlan-10 using British-supplied Netshot device | 85% capture rate <30m |
 | 📡 **EM Suppression /** RF Jamming | Directional jammers (5.8GHz @ 50W minimum) | Russian RB-341V Leer-3 system blocked 89% of Ukrainian FPV signals near Bakhmut | 300m effective radius |
-| 🛰️ **Frequency Jamming
-/** Video Signal Interference | COFDM waveform spoofing + video channel saturation | NATO's VROD system achieved 95% disruption rate in Kherson trials | Requires 2:1 jammer-drone ratio |
+| 🛰️ **Frequency Jamming /** Video Signal Interference | COFDM waveform spoofing + video channel saturation | NATO's VROD system achieved 95% disruption rate in Kherson trials | Requires 2:1 jammer-drone ratio |
 | 🔍 **Early Detection** | Acoustic sensors (200-1200Hz band analysis) + thermal spotting | Ukrainian "Nota" AI audio system provides 8s early warning (validated by RAND Corp) | 92% detection <400m |
 | ☄️ **Laser Dazzling** | 30kW mobile laser dazzlers (e.g., ROSC-1) | Russian Peresvet system blinded 23 Ukrainian drones near Donetsk (2024.03) | 1.2km max range |
 
@@ -290,7 +289,7 @@ FPV (First Person View) drones have revolutionized frontline tactics by offering
     
     ✅ *Case: Ukrainian 3rd Assault Brigade soldiers detected incoming Lancet swarm through distinct 950Hz harmonics, enabling 23-second early shelter (2024.05 Debaltseve)*
     
-![alt text](<../graphics/ChatGPT Image Apr 13, 2025, 02_06_58 AM.png>)
+![alt text](<graphics/ChatGPT Image Apr 13, 2025, 02_06_58 AM.png>)
 
 ---
 
@@ -339,7 +338,7 @@ FPV (First Person View) drones have revolutionized frontline tactics by offering
     
     ✅ *Case: Wagner fighter survived FPV strike by reflecting sunlight with ration tin (2023.07 Soledar)*
     
-![alt text](<../graphics/ChatGPT Image Apr 13, 2025, 03_16_40 AM.png>)
+![alt text](<graphics/ChatGPT Image Apr 13, 2025, 03_16_40 AM.png>)
 
 ---
 
