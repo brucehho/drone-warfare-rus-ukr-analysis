@@ -6,7 +6,7 @@
 
 Day 1143 of the Russia-Ukraine war, the Russian Defense Ministry claims its air defense systems intercepted 13 Ukrainian drones within 30 minutes on Friday night. Unverified reports suggest a retaliatory FPV “kamikaze” drone stuck a Russian radar station near Belgorod during the same period.
 
-![alt text](<graphics/ChatGPT Image Apr 13, 2025, 01_02_58 AM.png>)
+![alt text](<graphics/ChatGPT-02_06_58.png>)
 
 ---
 
@@ -289,7 +289,7 @@ FPV (First Person View) drones have revolutionized frontline tactics by offering
     
     ✅ *Case: Ukrainian 3rd Assault Brigade soldiers detected incoming Lancet swarm through distinct 950Hz harmonics, enabling 23-second early shelter (2024.05 Debaltseve)*
     
-![alt text](<graphics/ChatGPT Image Apr 13, 2025, 02_06_58 AM.png>)
+![alt text](<graphics/ChatGPT-Image-01_02_58.png>)
 
 ---
 
@@ -338,7 +338,7 @@ FPV (First Person View) drones have revolutionized frontline tactics by offering
     
     ✅ *Case: Wagner fighter survived FPV strike by reflecting sunlight with ration tin (2023.07 Soledar)*
     
-![alt text](<graphics/ChatGPT Image Apr 13, 2025, 03_16_40 AM.png>)
+![alt text](<graphics/ChatGPT-03_16_40.png>)
 
 ---
 
