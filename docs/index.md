@@ -1,4 +1,5 @@
 # Drone Warfare: Field Manuals and Tactical Analysis
+🌐 [中文](./zh/zh-index.md) | [日本語](./zh/jp-index.md)
 
 Welcome to the drone warfare repository. Explore field-tested tactics, case studies, and practical manuals on modern drone usage in Russia-Ukraine war.
 
@@ -21,9 +22,10 @@ These resources provide valuable insights and updates on the ongoing conflict an
 
 This project is curated and maintained by:
 
-- 📂 Source on [Main Page](https://github.com/brucehho/drone-warfare-rus-ukr-analysis).
-- 🔗 GitHub Profile [GitHub](https://github.com/brucehho).
-- 💼 LinkedIn [HongbinHE](https://www.linkedin.com/in/hbh123/).
+- 📂 Source on [Main Page](https://github.com/brucehho/drone-warfare-rus-ukr-analysis)
+- 🔗 [GitHub Profile](https://github.com/brucehho)
+- 💼 LinkedIn [HongbinHE](https://www.linkedin.com/in/hbh123/)
+- ✉️ Email [hongbinhework@gmail.com](mailto:he.hongbin.dev@gmail.com)
 
 Feel free to follow, fork, or contribute ideas 💡
 
