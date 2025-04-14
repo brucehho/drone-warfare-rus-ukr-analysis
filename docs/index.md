@@ -1,5 +1,5 @@
 # Drone Warfare: Field Manuals and Tactical Analysis
-🌐 [中文](./zh/zh-index.md) | [日本語](./zh/jp-index.md)
+🌐 [中文](./zh/zh-index.md) | [日本語](./jp/jp-index.md)
 
 Welcome to the drone warfare repository. Explore field-tested tactics, case studies, and practical manuals on modern drone usage in Russia-Ukraine war.
 
