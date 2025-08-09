@@ -6,7 +6,7 @@
 
 ## 📄 記事
 
-- [01 前線歩兵のためのドローン活用（概要・非機密版）](./jp-combat-drone-manual.md)
+- [01 前線歩兵のためのドローン活用](./jp-combat-drone-manual.md)
 
 ---
 
